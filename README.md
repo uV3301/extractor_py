@@ -1,4 +1,6 @@
 # extractor_py
-### The code extracts phone no. and emails
 - Language : Python
-- uses regular expressions
+## amazonpricescrapper
+scrapes price of items from amazon services
+## phone and email extractor
+The code extracts phone no. and emails _Uses regular expressions_ 
